@@ -1,2 +1,2 @@
-This repository contains the NLRS Onderwijsmodellen for Revit 2021. 
-Older versions of the NLRS Onderwijsmodellen will cease to be updated. As a rule of thumb, the Revit Standards Foundation provides model updates and improvements for the last 3 versions of Revit on date of publication.
+# Onderwijsmodellen
+Deze repository bevat de NLRS Onderwijsmodellen in het bronformaat Revit, versie 2021 en een export van de modellen naar IFC 2x3 formaat.
